@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Renci.SshNet.Messages.Connection
+namespace Renci.SshNet.Messages.Connection.ChannelRequest
 {
     /// <summary>
     /// Represents "exec" type channel request information

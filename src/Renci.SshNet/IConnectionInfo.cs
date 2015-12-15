@@ -4,6 +4,7 @@ using System.Text;
 using Renci.SshNet.Common;
 using Renci.SshNet.Messages.Authentication;
 using Renci.SshNet.Messages.Connection;
+using Renci.SshNet.Messages.Connection.ChannelRequest;
 
 namespace Renci.SshNet
 {

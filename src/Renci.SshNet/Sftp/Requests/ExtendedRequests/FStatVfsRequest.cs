@@ -1,7 +1,7 @@
 ﻿using System;
 using Renci.SshNet.Sftp.Responses;
 
-namespace Renci.SshNet.Sftp.Requests
+namespace Renci.SshNet.Sftp.Requests.ExtendedRequests
 {
     internal class FStatVfsRequest : SftpExtendedRequest
     {

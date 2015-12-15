@@ -1,6 +1,7 @@
 ﻿using System;
 using Renci.SshNet.Security.Cryptography;
 using Renci.SshNet.Security;
+using Renci.SshNet.Security.Cryptography.Hashes;
 
 namespace Renci.SshNet.Common
 {

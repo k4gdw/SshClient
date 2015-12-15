@@ -5,6 +5,7 @@ using System.Net.Sockets;
 using System.Threading;
 using Renci.SshNet.Common;
 using Renci.SshNet.Messages.Connection;
+using Renci.SshNet.Messages.Connection.ChannelOpen;
 
 namespace Renci.SshNet.Channels
 {

@@ -2,7 +2,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 
-namespace Renci.SshNet
+namespace Renci.SshNet.Common
 {
     /// <summary>
     /// Collection of different extension method specific for .NET 4.0

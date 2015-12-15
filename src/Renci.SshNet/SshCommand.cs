@@ -8,6 +8,7 @@ using Renci.SshNet.Messages;
 using Renci.SshNet.Messages.Connection;
 using Renci.SshNet.Messages.Transport;
 using System.Globalization;
+using Renci.SshNet.Messages.Connection.ChannelRequest;
 
 namespace Renci.SshNet
 {

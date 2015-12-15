@@ -1,5 +1,5 @@
 ﻿using System;
-using Renci.SshNet.NetConf;
+using Renci.SshNet.Netconf;
 
 namespace Renci.SshNet
 {

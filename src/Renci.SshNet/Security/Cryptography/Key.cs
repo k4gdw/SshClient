@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using Renci.SshNet.Common;
-using Renci.SshNet.Security.Cryptography;
 
-namespace Renci.SshNet.Security
+namespace Renci.SshNet.Security.Cryptography
 {
     /// <summary>
     /// Base class for asymmetric cipher algorithms

@@ -1,4 +1,4 @@
-﻿namespace Renci.SshNet.Messages.Connection
+﻿namespace Renci.SshNet.Messages.Connection.ChannelRequest
 {
     /// <summary>
     /// Represents SSH_MSG_CHANNEL_REQUEST message.

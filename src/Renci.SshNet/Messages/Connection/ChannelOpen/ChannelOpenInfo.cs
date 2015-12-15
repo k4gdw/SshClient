@@ -1,6 +1,6 @@
 ﻿using Renci.SshNet.Common;
 
-namespace Renci.SshNet.Messages.Connection
+namespace Renci.SshNet.Messages.Connection.ChannelOpen
 {
     /// <summary>
     /// Base class for open channel messages

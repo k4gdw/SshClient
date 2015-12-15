@@ -1,7 +1,7 @@
-﻿using Renci.SshNet.Common;
-using System;
+﻿using System;
+using Renci.SshNet.Common;
 
-namespace Renci.SshNet.Sftp.Responses
+namespace Renci.SshNet.Sftp.Responses.ExtendedReplies
 {
     internal abstract class ExtendedReplyInfo : SshData
     {

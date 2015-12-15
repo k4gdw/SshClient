@@ -1,4 +1,4 @@
-﻿namespace Renci.SshNet.Sftp.Responses
+﻿namespace Renci.SshNet.Sftp.Responses.ExtendedReplies
 {
     internal class StatVfsReplyInfo : ExtendedReplyInfo
     {

@@ -7,6 +7,8 @@ using System.Collections.Generic;
 using System.Globalization;
 using Renci.SshNet.Sftp.Responses;
 using Renci.SshNet.Sftp.Requests;
+using Renci.SshNet.Sftp.Requests.ExtendedRequests;
+using Renci.SshNet.Sftp.Responses.ExtendedReplies;
 
 namespace Renci.SshNet.Sftp
 {

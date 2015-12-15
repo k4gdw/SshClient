@@ -1,4 +1,4 @@
-﻿namespace Renci.SshNet.Security.Cryptography
+﻿namespace Renci.SshNet.Security.Cryptography.Hashes
 {
     public class SHA384Hash : SHA2HashBase
     {

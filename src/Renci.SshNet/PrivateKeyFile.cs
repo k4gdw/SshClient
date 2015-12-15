@@ -12,6 +12,7 @@ using Renci.SshNet.Security.Cryptography.Ciphers;
 using Renci.SshNet.Security.Cryptography.Ciphers.Modes;
 using Renci.SshNet.Security.Cryptography.Ciphers.Paddings;
 using System.Diagnostics.CodeAnalysis;
+using Renci.SshNet.Security.Cryptography.Hashes;
 
 namespace Renci.SshNet
 {

@@ -6,9 +6,11 @@ using Renci.SshNet.Security;
 using Renci.SshNet.Messages.Connection;
 using Renci.SshNet.Common;
 using Renci.SshNet.Messages.Authentication;
+using Renci.SshNet.Messages.Connection.ChannelRequest;
 using Renci.SshNet.Security.Cryptography;
 using Renci.SshNet.Security.Cryptography.Ciphers.Modes;
 using Renci.SshNet.Security.Cryptography.Ciphers;
+using Renci.SshNet.Security.Cryptography.Hashes;
 
 namespace Renci.SshNet
 {

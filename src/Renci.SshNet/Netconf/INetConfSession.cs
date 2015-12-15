@@ -1,6 +1,6 @@
 ﻿using System.Xml;
 
-namespace Renci.SshNet.NetConf
+namespace Renci.SshNet.Netconf
 {
     internal interface INetConfSession : ISubsystemSession
     {

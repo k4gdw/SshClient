@@ -7,6 +7,7 @@ using Renci.SshNet.Compression;
 using Renci.SshNet.Messages;
 using Renci.SshNet.Messages.Transport;
 using Renci.SshNet.Security.Cryptography;
+using Renci.SshNet.Security.Cryptography.Hashes;
 
 namespace Renci.SshNet.Security
 {

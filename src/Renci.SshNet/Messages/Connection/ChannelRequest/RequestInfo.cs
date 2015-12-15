@@ -1,6 +1,6 @@
 ﻿using Renci.SshNet.Common;
 
-namespace Renci.SshNet.Messages.Connection
+namespace Renci.SshNet.Messages.Connection.ChannelRequest
 {
     /// <summary>
     /// Represents type specific information for channel request.

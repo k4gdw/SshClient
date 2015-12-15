@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography;
 
-namespace Renci.SshNet.Security.Cryptography
+namespace Renci.SshNet.Security.Cryptography.Hashes
 {
 	/// <summary>
 	/// SHA1 algorithm implementation

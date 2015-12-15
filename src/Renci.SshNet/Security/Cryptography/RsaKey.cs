@@ -1,8 +1,7 @@
 ﻿using System;
 using Renci.SshNet.Common;
-using Renci.SshNet.Security.Cryptography;
 
-namespace Renci.SshNet.Security
+namespace Renci.SshNet.Security.Cryptography
 {
     /// <summary>
     /// Contains RSA private and public key

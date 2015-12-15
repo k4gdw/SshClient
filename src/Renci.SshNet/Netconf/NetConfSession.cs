@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Globalization;
 using System.Text;
-using System.Threading;
-using Renci.SshNet.Common;
-using System.Xml;
 using System.Text.RegularExpressions;
+using System.Threading;
+using System.Xml;
+using Renci.SshNet.Common;
 
-namespace Renci.SshNet.NetConf
+namespace Renci.SshNet.Netconf
 {
     internal class NetConfSession : SubsystemSession, INetConfSession
     {

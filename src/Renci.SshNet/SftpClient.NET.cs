@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using Renci.SshNet.Sftp;
 using System.Globalization;
+using Renci.SshNet.Common;
 
 namespace Renci.SshNet
 {

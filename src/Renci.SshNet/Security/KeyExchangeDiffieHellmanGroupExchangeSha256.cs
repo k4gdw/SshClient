@@ -1,4 +1,5 @@
 ﻿using Renci.SshNet.Security.Cryptography;
+using Renci.SshNet.Security.Cryptography.Hashes;
 
 namespace Renci.SshNet.Security
 {

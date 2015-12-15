@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Renci.SshNet.NetConf;
+using Renci.SshNet.Netconf;
 
 namespace Renci.SshNet
 {

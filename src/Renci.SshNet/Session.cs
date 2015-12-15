@@ -16,6 +16,8 @@ using Renci.SshNet.Messages.Connection;
 using Renci.SshNet.Messages.Transport;
 using Renci.SshNet.Security;
 using System.Globalization;
+using Renci.SshNet.Messages.Connection.ChannelOpen;
+using Renci.SshNet.Messages.Connection.ChannelRequest;
 using Renci.SshNet.Security.Cryptography;
 using ASCIIEncoding = Renci.SshNet.Common.ASCIIEncoding;
 

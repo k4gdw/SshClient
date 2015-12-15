@@ -1,5 +1,6 @@
 ﻿using System;
 using Renci.SshNet.Messages.Connection;
+using Renci.SshNet.Messages.Connection.ChannelRequest;
 
 namespace Renci.SshNet.Common
 {

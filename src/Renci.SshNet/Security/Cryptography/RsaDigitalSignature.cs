@@ -2,6 +2,7 @@
 using System.Security.Cryptography;
 using Renci.SshNet.Common;
 using Renci.SshNet.Security.Cryptography.Ciphers;
+using Renci.SshNet.Security.Cryptography.Hashes;
 
 namespace Renci.SshNet.Security.Cryptography
 {

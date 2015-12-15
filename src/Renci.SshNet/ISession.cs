@@ -6,6 +6,8 @@ using Renci.SshNet.Common;
 using Renci.SshNet.Messages;
 using Renci.SshNet.Messages.Authentication;
 using Renci.SshNet.Messages.Connection;
+using Renci.SshNet.Messages.Connection.ChannelOpen;
+using Renci.SshNet.Messages.Connection.ChannelRequest;
 
 namespace Renci.SshNet
 {
