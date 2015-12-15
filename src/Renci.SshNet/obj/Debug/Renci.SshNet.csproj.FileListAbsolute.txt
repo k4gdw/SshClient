@@ -1,6 +1,0 @@
-C:\Projects\Lib\SshClient\src\Renci.SshNet\bin\Debug\Renci.SshNet.xml
-C:\Projects\Lib\SshClient\src\Renci.SshNet\bin\Debug\Renci.SshNet.dll
-C:\Projects\Lib\SshClient\src\Renci.SshNet\bin\Debug\Renci.SshNet.pdb
-C:\Projects\Lib\SshClient\src\Renci.SshNet\obj\Debug\Renci.SshNet.csprojResolveAssemblyReference.cache
-C:\Projects\Lib\SshClient\src\Renci.SshNet\obj\Debug\Renci.SshNet.dll
-C:\Projects\Lib\SshClient\src\Renci.SshNet\obj\Debug\Renci.SshNet.pdb
